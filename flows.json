@@ -40,7 +40,7 @@
         "type": "function",
         "z": "a08ee71415359ade",
         "name": "function 1",
-        "func": "msg.payload = \"Hello World!\"\nreturn msg;",
+        "func": "msg.payload = \"Hello World, second time!\"\nreturn msg;",
         "outputs": 1,
         "timeout": 0,
         "noerr": 0,
